@@ -1,0 +1,11 @@
+.venv
+venv
+__pycache__
+*.pyc
+.git
+.gitignore
+.DS_Store
+*.md
+!vectordb/README.md
+cursor.txt
+*.png

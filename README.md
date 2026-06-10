@@ -4,6 +4,16 @@ A local vector database explorer with a FastAPI backend and a single-file dashbo
 
 **Author & contributor:** [Iconic Venom](https://github.com/iconicvenom)
 
+## Screenshots
+
+**Search & PCA visualization** — semantic search, document upload, 2D/3D cluster views
+
+![Semantic search and PCA visualization](assets/dashboard-search.png)
+
+**Results, benchmarks & RAG** — top-k results, algorithm comparison chart, document chat
+
+![Search results, algorithm comparison, and RAG chat](assets/dashboard-results.png)
+
 ---
 
 ## Features

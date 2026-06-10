@@ -32,8 +32,8 @@ Recommended way to run the app.
 From the project root:
 
 ```bash
-git clone https://github.com/iconicvenom/vector-db.git
-cd vector-db
+git clone https://github.com/iconicvenom/vectordb.git
+cd vectordb
 docker compose up --build
 ```
 
@@ -189,15 +189,15 @@ git init
 git add .
 git commit -m "Add VectorDB with Docker support"
 git branch -M main
-git remote add origin https://github.com/iconicvenom/vector-db.git
+git remote add origin https://github.com/iconicvenom/vectordb.git
 git push -u origin main
 ```
 
-Create the empty repo on GitHub first (**New repository** → `vector-db`), or use the GitHub CLI:
+Create the empty repo on GitHub first (**New repository** → `vectordb`), or use the GitHub CLI:
 
 ```bash
 gh auth login
-gh repo create iconicvenom/vector-db --public --source=. --remote=origin --push
+gh repo create iconicvenom/vectordb --public --source=. --remote=origin --push
 ```
 
 ---
